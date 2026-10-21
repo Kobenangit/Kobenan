@@ -1,2 +1,3 @@
-console.log(8 + 4);
-console.log(8 % 3);
+console.log(Boolean(0));
+console.log(Boolean("0"));
+console.log(Boolean(""));
